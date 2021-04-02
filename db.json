@@ -1,4 +1,5 @@
-[
+{
+  "checks": [
   {
     "key": "consectetur ad do ex cupidatat officia non",
     "value": "consequat"
@@ -400,3 +401,7 @@
     "value": "quis"
   }
 ]
+
+
+
+}
